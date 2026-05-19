@@ -1,4 +1,5 @@
-﻿﻿# qt-file-analyzer
+﻿﻿
+# qt-file-analyzer
 
 ---
 
@@ -36,19 +37,20 @@ Developed a multithreaded desktop file analyzer in C++ and Qt with asynchronous 
 ## Screenshots
 
 ### Main Window
-<img src="/screenshots/1_main_window.png" alt="Main Window" width="850" height="950">
+<img src="/screenshots/1_main_window.PNG" alt="Main Window" width="550" height="650">
 
 ### Attempt at analysis or search without opening a file
-<img src="/screenshots/2_file_not_selected.png" alt="File not Selected" width="850" height="950">
+<img src="/screenshots/2_file_not_selected.PNG" alt="File not Selected" width="550" height="650">
 
 ### File Opened
-<img src="/screenshots/3_file_selected.png" alt="File Selected" width="850" height="950">
+<img src="/screenshots/3_file_selected.PNG" alt="File Selected" width="550" height="650">
 
 ### File analysis
-<img src="/screenshots/4_after_analysis.png" alt="File analysis" width="850" height="950">
+<img src="/screenshots/4_after_analysis.PNG" alt="File analysis" width="550" height="650">
 
 ### Search Functionality
-<img src="/screenshots/5_string_highlighted.png" alt="Search Functionality" width="850" height="950">
+
+<img src="/screenshots/5_string_highlighted.PNG" alt="Search Functionality" width="550" height="650">
 
 
 ## Build Instructions
