@@ -36,19 +36,19 @@ Developed a multithreaded desktop file analyzer in C++ and Qt with asynchronous 
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/1_main_window.png)
+<img src="/screenshots/1_main_window.png" alt="Main Window" width="850" height="950">
 
 ### Attempt at analysis or search without opening a file
-![File not Selected](screenshots/2_file_not_selected.png)
+<img src="/screenshots/2_file_not_selected.png" alt="File not Selected" width="850" height="950">
 
 ### File Opened
-![File Selected](screenshots/3_file_selected.png)
+<img src="/screenshots/3_file_selected.png" alt="File Selected" width="850" height="950">
 
 ### File analysis
-![File analysis](screenshots/4_after_analysis.png)
+<img src="/screenshots/4_after_analysis.png" alt="File analysis" width="850" height="950">
 
 ### Search Functionality
-![Search Functionality](screenshots/5_string_highlighted.png)
+<img src="/screenshots/5_string_highlighted.png" alt="Search Functionality" width="850" height="950">
 
 
 ## Build Instructions
@@ -62,6 +62,7 @@ cd build
 
 cmake ..
 cmake --build .
+```
 
 
 
