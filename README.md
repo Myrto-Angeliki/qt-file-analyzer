@@ -30,7 +30,7 @@ Developed a multithreaded desktop file analyzer in C++ and Qt with asynchronous 
 
 ## Architecture
 - GUI implemented with Qt Widgets
-- File handling using QFile and QTextStream
+- File handling using QFileDialog
 - Background processing implemented with QtConcurrent
 - Communication handled with Qt signals and slots
 
